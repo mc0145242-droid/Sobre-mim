@@ -1,4 +1,4 @@
-# 👋 E aí, eu sou o Mário Cesar!
+# 👋 E aí, eu sou o Mário César!
 
 > "Se travou, provavelmente é IA. Se funcionou, com certeza fui eu."
 
